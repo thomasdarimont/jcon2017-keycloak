@@ -1,0 +1,9 @@
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/IdmEventMapper.java
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/JmsEventListenerProviderFactory.java
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/InstanceNameHolder.java
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/IdmEventPublisher.java
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/ForwardingEventListenerProvider.java
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/KeycloakIdmEvent.java
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/RoleInfo.java
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/UserInfo.java
+/home/tom/dev/repos/gh/thomasdarimont/talks/javaland2017-os-idm-keycloak/idm-system/keycloak/extensions/jms-event-forwarder/src/main/java/de/tdlabs/keycloak/ext/events/forwarder/AuditInfo.java

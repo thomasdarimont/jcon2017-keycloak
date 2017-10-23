@@ -1,1 +1,9 @@
 idm-system/data/
+*.class
+*.iml
+*.project
+*.classpath
+*.settings/
+
+.idea/
+*.iml
